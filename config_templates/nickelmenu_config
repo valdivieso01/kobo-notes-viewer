@@ -1,0 +1,4 @@
+menu_item :main :Notas :nickel_browser :modal:file:///mnt/onboard/notes_viewer/index.html
+menu_item :main :Actualizar Lista :cmd_spawn :sh /mnt/onboard/notes_viewer/generar_notas.sh
+menu_item :reader :Notas :nickel_browser :modal:file:///mnt/onboard/notes_viewer/index.html
+menu_item :reader :Actualizar Lista :cmd_spawn :sh /mnt/onboard/notes_viewer/generar_notas.sh
